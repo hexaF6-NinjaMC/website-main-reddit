@@ -1,0 +1,20 @@
+this is for html templates(rendering html)
+
+flask templating language called jinja allows for us to write a little python inside html documents
+allows for a bunch of stuff without using javascript. If you want to write JS, or CSS, add images etc
+you would put in the static folder and load them in html
+
+base.html template is the "theme" of the webiste, instructs what the website is generally going to look like 
+home.html, etc will "exten" base.html
+
+base.html will import "bootstrap" which is a CSS framework with built in classes making it easier to style website
+the link to a cdn(content delivery network) that will load a bunch of custom CSS in javascript(see "stylesheet")
+thigns will still work without it but won't look as nice. 
+
+
+https://www.w3schools.com/html/html_form_elements.asp
+
+
+
+
+C:\Users\Kaje\Desktop\Coding and creation\Python Projects\Flask_venv_tutorial\website\templates\website\static\styles\styles.css
